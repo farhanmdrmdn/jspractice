@@ -11,3 +11,10 @@ var futureAge = myAge + diffInYear;
 
 console.log(`My name is ${myName}.`)
 console.log(`I am ${myAge} years old this years which is ${futureAge} years old in 2030 years.`);
+
+var yearOfBirth = 1990
+var currentYear = 2020
+var age = currentYear - yearOfBirth
+var possibleAge = age - 1
+
+console.log("your possibly " + age + " or " + possibleAge + " depending on the month of the year");
