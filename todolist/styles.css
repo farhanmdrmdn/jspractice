@@ -19,11 +19,12 @@ padding: 0;
 
 /* Style the list items */
 ul li {
-    cursor: pointer;
+    font-family: 'Gloria Hallelujah', cursive;
+cursor: pointer;
 position: relative;
-padding: 12px 8px 12px 40px;
+padding: 13px 8px 13px 40px;
 background: #eee;
-font-size: 18px;
+font-size: 15px;
 transition: 0.2s;
 
 /* make the list items unselectable */
